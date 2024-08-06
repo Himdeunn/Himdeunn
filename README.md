@@ -37,6 +37,5 @@
 ---
 
 <p align="center">
-  <img align="left" src="https://cdn.discordapp.com/attachments/1248487182021300236/1270244221525299230/6301-sakura-moon-pfpsgg.gif?ex=66b2fe9e&is=66b1ad1e&hm=be02e08acaa317292d3b593cc2de8d44d5996cdb56b47174dba09615c13c2b57&" alt="Futuristic Banner" width="50%" />
-  <img align="right" src="https://cdn.discordapp.com/attachments/1248487182021300236/1270244221525299230/6301-sakura-moon-pfpsgg.gif?ex=66b2fe9e&is=66b1ad1e&hm=be02e08acaa317292d3b593cc2de8d44d5996cdb56b47174dba09615c13c2b57&" alt="Futuristic Banner" width="50%" />
+  <img src="https://cdn.discordapp.com/attachments/1248487182021300236/1270243430953521234/6fb95456e0e6b939b0dcf297d302f540.jpg?ex=66b2fde1&is=66b1ac61&hm=5172434fa9eb328310f2da64ba20f5a918cfbe30e0a74b82f2888d987f7c0769&" alt="Futuristic Banner" width="50%" />
 </p>
