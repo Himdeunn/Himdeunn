@@ -1,6 +1,6 @@
-<h1 align="center">🌌 Tegar Aprilian a.k.a Himdeunn 🌌</h1>
-<h4 align="center">Frontend Developer Student & Owner of Yosed SMP Minecraft Server</h4>
-<h4 align="center">Greetings and Welcome to My Profile</h4>
+<h1 align="center">⌜𝐓𝐄𝐆𝐀𝐑 𝐀𝐏𝐑𝐈𝐋𝐈𝐀𝐍 𝐚.𝐤.𝐚 𝐇𝐈𝐌𝐃𝐄𝐔𝐍𝐍⌟</h1>
+<h3 align="center">Frontend Developer Student & Owner of Yosed SMP Minecraft Server</h3>
+<h4 align="center">〄 Greetings and Welcome to My Profile 〄</h4>
 
 <p align="center">
   <em>
@@ -10,14 +10,23 @@
 
 ---
 
+<h4 align="center">〄 My Statistic 〄</h4>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThePeaces&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=ThePeaces&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himdeunn&theme=midnight-purple&hide_border=true" alt="Himdeunn's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Himdeunn&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="Himdeunn's GitHub Stats" />
+</div>
+
+<h4 align="center">〄 My Top Languages 〄</h4>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himdeunn&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Himdeunn's Top Languages" />
+  <img src="https://cdn.discordapp.com/attachments/1248487182021300236/1270243430953521234/6fb95456e0e6b939b0dcf297d302f540.jpg?ex=66b2fde1&is=66b1ac61&hm=5172434fa9eb328310f2da64ba20f5a918cfbe30e0a74b82f2888d987f7c0769&" alt="Futuristic Banner" width="48.5%" />
 </div>
 
 ---
 
-<h4 align="center">🔗 Connect With Me 🔗</h4>
+<h4 align="center">〄 My Social Media | Connect With Me 〄</h4>
 
 <div align="center">
   <a href="https://instagram.com/itsmedakwah" target="_blank">
@@ -35,7 +44,3 @@
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1248487182021300236/1270243430953521234/6fb95456e0e6b939b0dcf297d302f540.jpg?ex=66b2fde1&is=66b1ac61&hm=5172434fa9eb328310f2da64ba20f5a918cfbe30e0a74b82f2888d987f7c0769&" alt="Futuristic Banner" width="50%" />
-</p>
