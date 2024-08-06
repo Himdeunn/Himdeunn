@@ -8,12 +8,6 @@
   </em>
 </p>
 
-<h4 align="center">🔮 Philosophy Behind the Logo 🔮</h4>
-
-<p align="center">
-  The logo of this profile represents a blend of creativity and technological advancement. The circular shape signifies unity and infinity, indicating endless possibilities in the realm of design and development. The sharp edge cutting through the circle embodies precision and cutting-edge technology, reflecting my dedication to staying ahead in the field. The vibrant orange color symbolizes enthusiasm, creativity, and a forward-thinking mindset, perfectly aligning with my passion for innovation and excellence in frontend development.
-</p>
-
 ---
 
 <div align="center">
