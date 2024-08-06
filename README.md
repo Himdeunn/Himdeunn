@@ -17,7 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Himdeunn&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="Himdeunn's GitHub Stats" />
 </div>
 
-<h4 align="center">〄 My Top Languages & Top Framework〄</h4>
+<h4 align="center">〄 Currently I am still learning programming languages 〄</h4>
 
 <div align="center">
   <a href="https://www.w3schools.com/css/" target="_blank">
