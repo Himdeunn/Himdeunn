@@ -74,6 +74,12 @@
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=FFFFFF&style=for-the-badge" height="30" alt="PostgreSQL" />
   </a>
+    <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=FFFFFF&style=for-the-badge" height="30" alt="Figma" />
+  </a>
+  <a href="https://greensock.com/gsap/" target="_blank">
+    <img src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=FFFFFF&style=for-the-badge" height="30" alt="GSAP" />
+  </a>
 </div>
 
 <div align="center">
