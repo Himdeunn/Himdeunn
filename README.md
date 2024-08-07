@@ -44,6 +44,36 @@
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=ffffff&style=for-the-badge" height="30" alt="Node.js" />
   </a>
+    <a href="https://nextjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=FFFFFF&style=for-the-badge" height="30" alt="Next.js" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=FFFFFF&style=for-the-badge" height="30" alt="Bootstrap" />
+  </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=FFFFFF&style=for-the-badge" height="30" alt="TypeScript" />
+  </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=FFFFFF&style=for-the-badge" height="30" alt="Vue.js" />
+  </a>
+  <a href="https://developer.apple.com/swift/" target="_blank">
+    <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=FFFFFF&style=for-the-badge" height="30" alt="Swift" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=FFFFFF&style=for-the-badge" height="30" alt="MySQL" />
+  </a>
+  <a href="https://jquery.com/" target="_blank">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=FFFFFF&style=for-the-badge" height="30" alt="jQuery" />
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=FFFFFF&style=for-the-badge" height="30" alt="SQLite" />
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=FFFFFF&style=for-the-badge" height="30" alt="Angular" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=FFFFFF&style=for-the-badge" height="30" alt="PostgreSQL" />
+  </a>
 </div>
 
 <div align="center">
