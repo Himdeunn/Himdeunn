@@ -82,11 +82,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1248487182021300236/1270243430953521234/6fb95456e0e6b939b0dcf297d302f540.jpg?ex=66b2fde1&is=66b1ac61&hm=5172434fa9eb328310f2da64ba20f5a918cfbe30e0a74b82f2888d987f7c0769&" alt="Futuristic Banner" width="48.5%" />
-  <img src="https://cdn.discordapp.com/attachments/1248487182021300236/1270243430433558590/2f7fc6a808a877a2f9ee6a1773ba6cf3.jpg?ex=66b2fde1&is=66b1ac61&hm=6efda64328439ed1fd8fa0fc9d9068811df44260606361adbf93462f4bf6cc76&" alt="Futuristic Banner" width="48.5%" />
-</div>
-
 ---
 
 <h4 align="center">〄 My Social Media | Connect With Me 〄</h4>
