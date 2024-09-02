@@ -17,6 +17,20 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Himdeunn&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="Himdeunn's GitHub Stats" />
 </div>
 
+<h4 align="center">〄 My Favorites Language & RDBMS 〄</h4>
+
+<div align="center">
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000&style=for-the-badge" height="30" alt="JavaScript" />
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=FFFFFF&style=for-the-badge" height="30" alt="PHP" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=FFFFFF&style=for-the-badge" height="30" alt="MySQL" />
+  </a>
+</div>
+
 <h4 align="center">〄 Currently I am still learning programming languages 〄</h4>
 
 <div align="center">
