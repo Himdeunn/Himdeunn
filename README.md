@@ -10,7 +10,7 @@
 
 ---
 <h4 align="center">〄 My Achievement 〄</h4>
-<img src="https://github-profile-trophy.vercel.app/?username=Himdeunn&theme=alduin&no-frame=true&rank=S,AAA,SS,A,AA,B,AAA,SS" alt="Himdeunn Thropy" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=Himdeunn&theme=alduin&no-frame=true&margin-w=15" alt="Himdeunn Thropy" />
 
 ---
 
