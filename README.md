@@ -105,7 +105,7 @@
 <h4 align="center">〄 My Social Media | Connect With Me 〄</h4>
 
 <div align="center">
-  <a href="https://instagram.com/itsmedakwah" target="_blank">
+  <a href="https://instagram.com/himdeunn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=E4405F&style=for-the-badge" height="30" alt="instagram logo" />
   </a>
   <a href="https://www.linkedin.com/in/tegar-aprilian-16a3a029a/" target="_blank">
