@@ -9,6 +9,21 @@
 </p>
 
 ---
+
+<h4 align="center">〄 My Portfolio 〄</h4>
+<p align="center">
+  <em>
+    Below is the site for my personal portfolio
+  </em>
+</p>
+<p align="center">
+  <a href="https://himdeunn.my.id/" target="_blank">
+  </a>
+  <img src="https://cdn.discordapp.com/attachments/1248487182021300236/1304013965801816074/image.png?ex=672dd924&is=672c87a4&hm=24b72cb790ee0130b33c629d96e114396b6f3afc5d0545ddf8ec25650689a8b7&" alt="Portfolio Screenshot" width="600"/>
+</p>
+
+---
+
 <h4 align="center">〄 My Achievement 〄</h4>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Himdeunn&theme=tokyonight&no-frame=true&margin-w=15" alt="Himdeunn Thropy" />
 
