@@ -17,7 +17,7 @@
   </em>
 </p>
   <a align="center" href="https://himdeunn.my.id/" target="_blank">
-    Himdeunn Portfolio
+    <p align="center">Himdeunn Portfolio</p>
   </a>
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1248487182021300236/1304013965801816074/image.png?ex=672dd924&is=672c87a4&hm=24b72cb790ee0130b33c629d96e114396b6f3afc5d0545ddf8ec25650689a8b7&" alt="Portfolio Screenshot" width="600"/>
