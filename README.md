@@ -1,5 +1,5 @@
 <h1 align="center">⌜𝐓𝐄𝐆𝐀𝐑 𝐀𝐏𝐑𝐈𝐋𝐈𝐀𝐍 𝐚.𝐤.𝐚 𝐇𝐈𝐌𝐃𝐄𝐔𝐍𝐍⌟</h1>
-<h3 align="center">Frontend Developer Student & Owner of Yosed SMP Minecraft Server</h3>
+<h3 align="center">Junior Frontend Developer, Developer of Yosed SMP Minecraft Server, & Founder of H-Tech Corp.</h3>
 <h4 align="center">〄 Greetings and Welcome to My Profile 〄</h4>
 
 <p align="center">
