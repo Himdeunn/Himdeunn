@@ -33,7 +33,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himdeunn&theme=nightowl&show_icons=true&hide_border=true&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Himdeunn&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="Himdeunn's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Himdeunn&theme=nightowl&show_icons=true&hide_border=true&count_private=true" />
 </div>
 
 <h4 align="center">〄 My Favorites Language & RDBMS 〄</h4>
