@@ -32,8 +32,8 @@
 <h4 align="center">〄 My Statistic 〄</h4>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himdeunn&theme=midnight-purple&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Himdeunn&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" />
+  ![](https://github-readme-stats.vercel.app/api?username=Himdeunn&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Himdeunn&theme=midnight-purple&hide_border=true)
 </div>
 
 <h4 align="center">〄 My Favorites Language & RDBMS 〄</h4>
