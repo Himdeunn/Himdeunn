@@ -1,3 +1,5 @@
+<img src="https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif"></img>
+
 <h1 align="center">⌜𝐓𝐄𝐆𝐀𝐑 𝐀𝐏𝐑𝐈𝐋𝐈𝐀𝐍 𝐚.𝐤.𝐚 𝐇𝐈𝐌𝐃𝐄𝐔𝐍𝐍⌟</h1>
 <h3 align="center">Software Engineering, Frontend Developer, UI/UX, Developer of Chronoscraft Community, and Founder of H-Tech Corp.</h3>
 <h4 align="center">〄 Greetings and Welcome to My Profile 〄</h4>
@@ -7,8 +9,6 @@
     "Embracing the future of technology and design, I am dedicated to creating stunning user experiences and visually captivating graphics. Let's embark on this journey together and transform ideas into reality."
   </em>
 </p>
-
----
 
 <h4 align="center">〄 My Portfolio 〄</h4>
 <p align="center">
@@ -22,19 +22,21 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
 
 <h4 align="center">〄 My Achievement 〄</h4>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Himdeunn&theme=tokyonight&no-frame=true&margin-w=15" alt="Himdeunn Thropy" />
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
 
 <h4 align="center">〄 My Statistic 〄</h4>
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Himdeunn&theme=midnight-purple&hide_border=true" alt="" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Himdeunn&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=himdeunn&show_icons=true&theme=midnight-purple&hide_border=true" height="250" alt="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himdeunn&layout=donut&theme=midnight-purple&hide_border=true" height="250" alt="" />
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
 
 <h4 align="center">〄 My Favorites Language & RDBMS 〄</h4>
 
@@ -115,7 +117,7 @@
   </a>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
 
 <h4 align="center">〄 My Social Media | Connect With Me 〄</h4>
 
