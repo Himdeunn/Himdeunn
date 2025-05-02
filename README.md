@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif"></img>
+<img src="https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif" height="200"></img>
 
 <h1 align="center">⌜𝐓𝐄𝐆𝐀𝐑 𝐀𝐏𝐑𝐈𝐋𝐈𝐀𝐍 𝐚.𝐤.𝐚 𝐇𝐈𝐌𝐃𝐄𝐔𝐍𝐍⌟</h1>
 <h3 align="center">Software Engineering, Frontend Developer, UI/UX, Developer of Chronoscraft Community, and Founder of H-Tech Corp.</h3>
