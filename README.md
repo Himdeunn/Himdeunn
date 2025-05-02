@@ -32,8 +32,8 @@
 <h4 align="center">〄 My Statistic 〄</h4>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=himdeunn&show_icons=true&theme=midnight-purple&hide_border=true" height="100" alt="" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himdeunn&layout=donut&theme=midnight-purple&hide_border=true" height="100" alt="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=himdeunn&show_icons=true&theme=midnight-purple&hide_border=true" height="200" alt="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himdeunn&layout=donut&theme=midnight-purple&hide_border=true" height="200" alt="" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
