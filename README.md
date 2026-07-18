@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif" width="100%" alt="Header Anime GIF">
+<img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="100%" alt="Header Anime GIF">
 
 <h1 align="center">⌜ 𝐓𝐄𝐆𝐀𝐑 𝐀𝐏𝐑𝐈𝐋𝐈𝐀𝐍 𝐚.𝐤.𝐚 𝐇𝐈𝐌𝐃𝐄𝐔𝐍𝐍 ⌟</h1>
 <h3 align="center">Software & Frontend Engineer | Founder Aeterna Foundation</h3>
